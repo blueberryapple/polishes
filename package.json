@@ -1,24 +1,29 @@
 {
-  "name": "polishes",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "ramda": "^0.27.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
-  },
-  "devDependencies": {
-    "@testing-library/react": "^10.0.4",
-    "jest": "^26.0.1",
-    "parcel-bundler": "^1.12.4",
-    "prettier": "^2.0.5",
-    "typescript": "^3.9.3"
-  }
+    "name": "polishes",
+    "version": "1.0.0",
+    "description": "Web app to find similar paint polishes",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:blueberryapple/polishes.git"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prettier": "prettier --write '**/*.{js,ts,json,html}'"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ramda": "^0.27.0",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "devDependencies": {
+        "@testing-library/react": "^10.0.4",
+        "jest": "^26.0.1",
+        "parcel-bundler": "^1.12.4",
+        "prettier": "^2.0.5",
+        "typescript": "^3.9.3"
+    }
 }
