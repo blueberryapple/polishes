@@ -1,0 +1,851 @@
+[
+    {
+        "name": "hd speed",
+        "brand": "3D",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "polish+",
+        "brand": "3D",
+        "cut": 4
+    },
+    {
+        "name": "att finishing polish",
+        "brand": "3D",
+        "cut": 5
+    },
+    {
+        "name": "cut+",
+        "brand": "3D",
+        "cut": 9
+    },
+    {
+        "name": "att rubbing compound",
+        "brand": "3D",
+        "cut": 10
+    },
+    {
+        "name": "imperial hand glaze",
+        "brand": "3M",
+        "cut": 0,
+        "filler": true
+    },
+    {
+        "name": "one step cleaner wax",
+        "brand": "3M",
+        "cut": 1
+    },
+    {
+        "name": "perfect-it 2",
+        "brand": "3M",
+        "cut": 2
+    },
+    {
+        "name": "perfect-it 3000 ultra fine machine polish",
+        "brand": "3M",
+        "cut": 2
+    },
+    {
+        "name": "finesse-it 2 finishing material",
+        "brand": "3M",
+        "cut": 3
+    },
+    {
+        "name": "scratch remover",
+        "brand": "3M",
+        "cut": 5
+    },
+    {
+        "name": "perfect-it 3000 machine polish",
+        "brand": "3M",
+        "cut": 5
+    },
+    {
+        "name": "rubbing compound",
+        "brand": "3M",
+        "cut": 7
+    },
+    {
+        "name": "perfect-it 3000 rubbing compound",
+        "brand": "3M",
+        "cut": 9
+    },
+    {
+        "name": "perfect-it 3000 extra-cut rubbing compound",
+        "brand": "3M",
+        "cut": 10
+    },
+    {
+        "name": "super duty rubbing compound",
+        "brand": "3M",
+        "cut": 10
+    },
+    {
+        "name": "gloss enhancing polish",
+        "brand": "blackfire",
+        "cut": 0
+    },
+    {
+        "name": "total polish and seal",
+        "brand": "blackfire",
+        "cut": 1,
+        "cleaner": true
+    },
+    {
+        "name": "src finishing polish",
+        "brand": "blackfire",
+        "cut": 3
+    },
+    {
+        "name": "src compound",
+        "brand": "blackfire",
+        "cut": 8
+    },
+    {
+        "name": "aio max",
+        "brand": "britemax",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "ultra fine polishing glaze",
+        "brand": "britemax",
+        "cut": 3
+    },
+    {
+        "name": "perfect prep fine polish and swirl remover",
+        "brand": "britemax",
+        "cut": 5
+    },
+    {
+        "name": "resto max light compound",
+        "brand": "britemax",
+        "cut": 7
+    },
+    {
+        "name": "pure cut medium compound",
+        "brand": "britemax",
+        "cut": 8
+    },
+    {
+        "name": "pro max heavy compound",
+        "brand": "britemax",
+        "cut": 10
+    },
+    {
+        "name": "reflect finishing polish",
+        "brand": "carpro",
+        "cut": 3
+    },
+    {
+        "name": "essence extreme gloss primer",
+        "brand": "carpro",
+        "cut": 3,
+        "filler": true
+    },
+    {
+        "name": "fixer polishing compound",
+        "brand": "carpro",
+        "cut": 8
+    },
+    {
+        "name": "paint correction 1 super polish #778",
+        "brand": "chemical guys",
+        "cut": 2
+    },
+    {
+        "name": "v38 optical finish polish",
+        "brand": "chemical guys",
+        "cut": 3
+    },
+    {
+        "name": "nano pro polish 3n",
+        "brand": "chemical guys",
+        "cut": 4
+    },
+    {
+        "name": "paint correction 2 super polish #772",
+        "brand": "chemical guys",
+        "cut": 5
+    },
+    {
+        "name": "v36 optical cutting polish",
+        "brand": "chemical guys",
+        "cut": 6
+    },
+    {
+        "name": "paint correction 3 hd #770",
+        "brand": "chemical guys",
+        "cut": 8
+    },
+    {
+        "name": "v34 optical hybrid compound",
+        "brand": "chemical guys",
+        "cut": 8
+    },
+    {
+        "name": "liquid sapphire auto wax #ss126",
+        "brand": "collinite",
+        "cut": 0,
+        "cleaner": true
+    },
+    {
+        "name": "sapphire prewax cleaner #840",
+        "brand": "collinite",
+        "cut": 3
+    },
+    {
+        "name": "fiberglass boat cleaner #920",
+        "brand": "collinite",
+        "cut": 3
+    },
+    {
+        "name": "lime prime light prewax glaze",
+        "brand": "dodo juice",
+        "cut": 0,
+        "filler": true
+    },
+    {
+        "name": "lime prime cleanser glaze",
+        "brand": "dodo juice",
+        "cut": 2,
+        "filler": true
+    },
+    {
+        "name": "need for speed cleaner wax",
+        "brand": "dodo juice",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "supernatural micro prime",
+        "brand": "dodo juice",
+        "cut": 3,
+        "filler": true
+    },
+    {
+        "name": "polish wax",
+        "brand": "1z einzett",
+        "cut": 1,
+        "cleaner": true
+    },
+    {
+        "name": "paint polish",
+        "brand": "1z einzett",
+        "cut": 4
+    },
+    {
+        "name": "pro-line high gloss polish",
+        "brand": "1z einzett",
+        "cut": 6
+    },
+    {
+        "name": "extra scratch remover",
+        "brand": "1z einzett",
+        "cut": 7
+    },
+    {
+        "name": "pro-line intensive paste",
+        "brand": "1z einzett",
+        "cut": 8
+    },
+    {
+        "name": "ultra polymer sealant",
+        "brand": "finish kare",
+        "cut": 1,
+        "cleaner": true
+    },
+    {
+        "name": "one step cleaner and surface sealant",
+        "brand": "finish kare",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "foam pad glaze",
+        "brand": "finish kare",
+        "cut": 4
+    },
+    {
+        "name": "ultimate prewax cleanser",
+        "brand": "four star",
+        "cut": 0
+    },
+    {
+        "name": "ultimate scratch and swirl remover",
+        "brand": "four star",
+        "cut": 6
+    },
+    {
+        "name": "one step sealant",
+        "brand": "griot's garage",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "boss finishing sealant",
+        "brand": "griot's garage",
+        "cut": 3,
+        "cleaner": true
+    },
+    {
+        "name": "compete polish",
+        "brand": "griot's garage",
+        "cut": 3
+    },
+    {
+        "name": "boss perfecting cream",
+        "brand": "griot's garage",
+        "cut": 4
+    },
+    {
+        "name": "boss correcting cream",
+        "brand": "griot's garage",
+        "cut": 6
+    },
+    {
+        "name": "complete compound",
+        "brand": "griot's garage",
+        "cut": 8
+    },
+    {
+        "name": "boss fast correcting cream",
+        "brand": "griot's garage",
+        "cut": 9
+    },
+    {
+        "name": "gyeon primer",
+        "brand": "gyeon",
+        "cut": 3
+    },
+    {
+        "name": "gyeon polish",
+        "brand": "gyeon",
+        "cut": 5
+    },
+    {
+        "name": "gyeon compound",
+        "brand": "gyeon",
+        "cut": 9
+    },
+    {
+        "name": "all-in-one",
+        "brand": "klasse",
+        "cut": 1,
+        "cleaner": true
+    },
+    {
+        "name": "jeweling wax",
+        "brand": "mckee's 37",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "360",
+        "brand": "mckee's 37",
+        "cut": 3,
+        "cleaner": true
+    },
+    {
+        "name": "fast polish",
+        "brand": "mckee's 37",
+        "cut": 4
+    },
+    {
+        "name": "fast compound",
+        "brand": "mckee's 37",
+        "cut": 8
+    },
+    {
+        "name": "mirror glaze #05",
+        "brand": "meguiar's",
+        "cut": 0,
+        "filler": true
+    },
+    {
+        "name": "mirror glaze #7",
+        "brand": "meguiar's",
+        "cut": 0,
+        "filler": true
+    },
+    {
+        "name": "a12 cleaner/wax",
+        "brand": "meguiar's",
+        "cut": 1,
+        "cleaner": true
+    },
+    {
+        "name": "mirror glaze #03",
+        "brand": "meguiar's",
+        "cut": 1
+    },
+    {
+        "name": "mirror glaze #06",
+        "brand": "meguiar's",
+        "cut": 1
+    },
+    {
+        "name": "colorx",
+        "brand": "meguiar's",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "mirror glaze #9",
+        "brand": "meguiar's",
+        "cut": 2
+    },
+    {
+        "name": "ultimate polish",
+        "brand": "meguiar's",
+        "cut": 3
+    },
+    {
+        "name": "d301 da mf finishing wax",
+        "brand": "meguiar's",
+        "cut": 3
+    },
+    {
+        "name": "mirror glaze #82",
+        "brand": "meguiar's",
+        "cut": 3
+    },
+    {
+        "name": "swirlx",
+        "brand": "meguiar's",
+        "cut": 4
+    },
+    {
+        "name": "mirror glaze #66",
+        "brand": "meguiar's",
+        "cut": 4,
+        "cleaner": true
+    },
+    {
+        "name": "mirror glaze #80",
+        "brand": "meguiar's",
+        "cut": 4
+    },
+    {
+        "name": "ultra fine polish #205",
+        "brand": "meguiar's",
+        "cut": 4
+    },
+    {
+        "name": "mirror glaze #02 fine-cut cleaner",
+        "brand": "meguiar's",
+        "cut": 5
+    },
+    {
+        "name": "scratchx 2.0",
+        "brand": "meguiar's",
+        "cut": 6
+    },
+    {
+        "name": "d151 paint reconditioning cream",
+        "brand": "meguiar's",
+        "cut": 6,
+        "cleaner": true
+    },
+    {
+        "name": "mirror glaze #83",
+        "brand": "meguiar's",
+        "cut": 6
+    },
+    {
+        "name": "mirror glaze #01 medium-cut cleaner",
+        "brand": "meguiar's",
+        "cut": 7
+    },
+    {
+        "name": "ultimate compound",
+        "brand": "meguiar's",
+        "cut": 8
+    },
+    {
+        "name": "mirror glaze #04",
+        "brand": "meguiar's",
+        "cut": 8
+    },
+    {
+        "name": "mirror glaze #84",
+        "brand": "meguiar's",
+        "cut": 8
+    },
+    {
+        "name": "d300 da mf correction compound",
+        "brand": "meguiar's",
+        "cut": 9
+    },
+    {
+        "name": "mirror glaze #85",
+        "brand": "meguiar's",
+        "cut": 9
+    },
+    {
+        "name": "mirror glaze #100",
+        "brand": "meguiar's",
+        "cut": 9
+    },
+    {
+        "name": "mirror glaze #95",
+        "brand": "meguiar's",
+        "cut": 10
+    },
+    {
+        "name": "mirror glaze #101",
+        "brand": "meguiar's",
+        "cut": 10
+    },
+    {
+        "name": "mirror glaze #105",
+        "brand": "meguiar's",
+        "cut": 10
+    },
+    {
+        "name": "top finish glaze",
+        "brand": "menzerna",
+        "cut": 1,
+        "filler": true
+    },
+    {
+        "name": "super finish plus 3800",
+        "brand": "menzerna",
+        "cut": 2
+    },
+    {
+        "name": "final finish 3000",
+        "brand": "menzerna",
+        "cut": 4
+    },
+    {
+        "name": "super finish 3500",
+        "brand": "menzerna",
+        "cut": 4
+    },
+    {
+        "name": "intensive polish p091e",
+        "brand": "menzerna",
+        "cut": 5
+    },
+    {
+        "name": "medium cut polish 2500",
+        "brand": "menzerna",
+        "cut": 5
+    },
+    {
+        "name": "one step polish 3-in-one",
+        "brand": "menzerna",
+        "cut": 5,
+        "cleaner": true
+    },
+    {
+        "name": "medium cut polish 2400",
+        "brand": "menzerna",
+        "cut": 7
+    },
+    {
+        "name": "power gloss 1000",
+        "brand": "menzerna",
+        "cut": 8
+    },
+    {
+        "name": "super heavy cut 300",
+        "brand": "menzerna",
+        "cut": 10
+    },
+    {
+        "name": "fast gloss 400",
+        "brand": "menzerna",
+        "cut": 10
+    },
+    {
+        "name": "professional hand glaze",
+        "brand": "mothers",
+        "cut": 0,
+        "filler": true
+    },
+    {
+        "name": "professional foam pad polish",
+        "brand": "mothers",
+        "cut": 3
+    },
+    {
+        "name": "professional machine glaze",
+        "brand": "mothers",
+        "cut": 6
+    },
+    {
+        "name": "professional rubbing compound",
+        "brand": "mothers",
+        "cut": 8
+    },
+    {
+        "name": "professional heavy duty rubbing compound",
+        "brand": "mothers",
+        "cut": 10
+    },
+    {
+        "name": "poli-seal",
+        "brand": "optimum",
+        "cut": 2,
+        "cleaner": true
+    },
+    {
+        "name": "finish polish",
+        "brand": "optimum",
+        "cut": 2
+    },
+    {
+        "name": "gps glaze",
+        "brand": "optimum",
+        "cut": 3,
+        "cleaner": true
+    },
+    {
+        "name": "polish 2",
+        "brand": "optimum",
+        "cut": 4
+    },
+    {
+        "name": "hyper spray polish",
+        "brand": "optimum",
+        "cut": 5
+    },
+    {
+        "name": "compound 2",
+        "brand": "optimum",
+        "cut": 8
+    },
+    {
+        "name": "intensive polish",
+        "brand": "optimum",
+        "cut": 8
+    },
+    {
+        "name": "hyper compound",
+        "brand": "optimum",
+        "cut": 10
+    },
+    {
+        "name": "gloss enhancing paintwork cleanser",
+        "brand": "p21s",
+        "cut": 0
+    },
+    {
+        "name": "paintwork cleansing lotion",
+        "brand": "pinnacle",
+        "cut": 0
+    },
+    {
+        "name": "advanced finishing polish",
+        "brand": "pinnacle",
+        "cut": 3
+    },
+    {
+        "name": "advanced swirl remover",
+        "brand": "pinnacle",
+        "cut": 7
+    },
+    {
+        "name": "advanced compound",
+        "brand": "pinnacle",
+        "cut": 10
+    },
+    {
+        "name": "surface cleansing polish",
+        "brand": "pinnacle black label",
+        "cut": 0
+    },
+    {
+        "name": "escalate lotion",
+        "brand": "polish angel",
+        "cut": 0
+    },
+    {
+        "name": "glasscoat invincible primer",
+        "brand": "polish angel",
+        "cut": 1
+    },
+    {
+        "name": "final polish 2",
+        "brand": "polish angel",
+        "cut": 3
+    },
+    {
+        "name": "master compound",
+        "brand": "polish angel",
+        "cut": 8
+    },
+    {
+        "name": "black hole show glaze",
+        "brand": "poorboy's world",
+        "cut": 0,
+        "filler": true
+    },
+    {
+        "name": "polish with 100% carnuba",
+        "brand": "poorboy's world",
+        "cut": 0,
+        "cleaner": true
+    },
+    {
+        "name": "white diamond show glaze",
+        "brand": "poorboy's world",
+        "cut": 0,
+        "filler": true
+    },
+    {
+        "name": "polish with sealant",
+        "brand": "poorboy's world",
+        "cut": 0,
+        "cleaner": true
+    },
+    {
+        "name": "ssr1 light abrasive swirl remover",
+        "brand": "poorboy's world",
+        "cut": 1
+    },
+    {
+        "name": "ssr2 medium abrasive swirl remover",
+        "brand": "poorboy's world",
+        "cut": 4
+    },
+    {
+        "name": "ssr 2.5 super swirl remover",
+        "brand": "poorboy's world",
+        "cut": 6
+    },
+    {
+        "name": "pro polish 2",
+        "brand": "poorboy's world",
+        "cut": 7
+    },
+    {
+        "name": "master cut",
+        "brand": "poorboy's world",
+        "cut": 10
+    },
+    {
+        "name": "ssr3 heavy duty compound",
+        "brand": "poorboy's world",
+        "cut": 10
+    },
+    {
+        "name": "diamond ultra fine fel polish",
+        "brand": "rupes",
+        "cut": 2
+    },
+    {
+        "name": "keramik gloss fine gel polish",
+        "brand": "rupes",
+        "cut": 4
+    },
+    {
+        "name": "quartz gloss medium gel compound",
+        "brand": "rupes",
+        "cut": 7
+    },
+    {
+        "name": "uhs polishing compound",
+        "brand": "rupes",
+        "cut": 8
+    },
+    {
+        "name": "zephir gloss coarse gel compund",
+        "brand": "rupes",
+        "cut": 9
+    },
+    {
+        "name": "premium class paint cleaner",
+        "brand": "sonax",
+        "cut": 2
+    },
+    {
+        "name": "profiline nano polish 3/6",
+        "brand": "sonax",
+        "cut": 3
+    },
+    {
+        "name": "paint cleaner",
+        "brand": "sonax",
+        "cut": 3
+    },
+    {
+        "name": "profiline perfect finish 4/6",
+        "brand": "sonax",
+        "cut": 4
+    },
+    {
+        "name": "ex 04-06",
+        "brand": "sonax",
+        "cut": 4
+    },
+    {
+        "name": "profiline fine abrasive paste 5/4",
+        "brand": "sonax",
+        "cut": 8
+    },
+    {
+        "name": "cut and finish",
+        "brand": "sonax",
+        "cut": 8
+    },
+    {
+        "name": "cutmax cutting compound",
+        "brand": "sonax",
+        "cut": 9
+    },
+    {
+        "name": "paintwork cleanser",
+        "brand": "sonus",
+        "cut": 1
+    },
+    {
+        "name": "swirl buster polish",
+        "brand": "sonus",
+        "cut": 2
+    },
+    {
+        "name": "sxf-3 final finish polish",
+        "brand": "sonus",
+        "cut": 3
+    },
+    {
+        "name": "sxf-2 enhance anti-swirl polish",
+        "brand": "sonus",
+        "cut": 5
+    },
+    {
+        "name": "sxf-1 restore heavy polish",
+        "brand": "sonus",
+        "cut": 7
+    },
+    {
+        "name": "paintwork polish enhancer",
+        "brand": "wolfgang",
+        "cut": 0
+    },
+    {
+        "name": "finishing glaze 3.0",
+        "brand": "wolfgang",
+        "cut": 3
+    },
+    {
+        "name": "uber all-in-one",
+        "brand": "wolfgang",
+        "cut": 6,
+        "cleaner": true
+    },
+    {
+        "name": "total swirl removal 3.0",
+        "brand": "wolfgang",
+        "cut": 7
+    },
+    {
+        "name": "uber compound",
+        "brand": "wolfgang",
+        "cut": 10
+    }
+]
